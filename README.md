@@ -1,2 +1,2 @@
 # ideia de um portifolio
- local basico de um portifolio.
+ portifolio da faculdade usando HTML, CSS.
